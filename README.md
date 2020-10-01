@@ -1,3 +1,3 @@
-# Google Cloud Platform Resource (GCP) Orchestration
+# Cloud Resource (GCP) Orchestration
 
-This is a suite to deploy GCP Compute Engine resource based on the number of users using a chat app.
+This is a suite to deploy Google Cloud Platform Compute Engine resource based on the number of users using a chat app.
